@@ -5,6 +5,7 @@ This is my first project with Bootstrap 4. In order to deepen my CSS knowledge, 
 - [Demo](#demo)
 - [Illustrations](#illustrations)
 - [Technologies](#technologies)
+- [Source](#source)
 - [Launch](#launch)
 
 ## Demo
@@ -21,6 +22,9 @@ Here is a working live demo : https://humbatovqara.github.io/wedding-page/
   - Responsive desing for all sizes
 - JQuery
 <br />
+
+## Source
+Inspired project: https://preview.colorlib.com/theme/invits/
 
 ## Launch
 ```
