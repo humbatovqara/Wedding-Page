@@ -21,7 +21,6 @@ Here is a working live demo : https://humbatovqara.github.io/wedding-page/
   - Responsive desing for all sizes
 - JQuery
 <br />
-
 ## Launch
 ```
 # Clone this repository
